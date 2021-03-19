@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+header{
+    
+    margin: 30px;
+    padding: 33px;
+    /* text-decoration: none; */
+    
+    background-color: rgb(230, 130, 130);
+}
+ header li  {
+    display: inline;
+    margin: 40px;
+    background-color: rgb(236, 57, 26);
+    /* text-decoration: none; */
+    
+    
+    
+}
+.navclass{
+    display: block;
+    background-color: rgb(116, 72, 219);
+    margin-left: 25px;
+    /* text-decoration-line: none; */
+    
+}
+.singIn{
+    float: right;
+    display: inline;
+    background-color: rgb(163, 65, 65);
+    
+
+}
+hr{
+    color: rgb(104, 34, 218);
+    height: 5px;
+    
+}
